@@ -1,7 +1,7 @@
 services:
   - type: web
     name: miportfolio
-    runtime: dotnet
+    runtime: docker
     branch: main
     buildCommand: dotnet publish -c Release -o out
     startCommand: dotnet out/MiPortfolio.dll
