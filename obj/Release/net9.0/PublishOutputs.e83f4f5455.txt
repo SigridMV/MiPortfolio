@@ -1,0 +1,7 @@
+C:\Users\Sigrid\MiPortfolio\bin\Release\net9.0\publish\MiPortfolio.exe
+C:\Users\Sigrid\MiPortfolio\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\Sigrid\MiPortfolio\bin\Release\net9.0\publish\appsettings.json
+C:\Users\Sigrid\MiPortfolio\bin\Release\net9.0\publish\MiPortfolio.dll
+C:\Users\Sigrid\MiPortfolio\bin\Release\net9.0\publish\MiPortfolio.deps.json
+C:\Users\Sigrid\MiPortfolio\bin\Release\net9.0\publish\MiPortfolio.runtimeconfig.json
+C:\Users\Sigrid\MiPortfolio\bin\Release\net9.0\publish\MiPortfolio.pdb
