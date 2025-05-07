@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: miportfolio
+    runtime: dotnet
+    branch: main
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet out/MiPortfolio.dll
+    publishPath: out
+    plan: free

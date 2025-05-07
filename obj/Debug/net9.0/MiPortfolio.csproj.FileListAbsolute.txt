@@ -95,3 +95,4 @@ C:\Users\Sigrid\MiPortfolio\obj\Debug\net9.0\refint\MiPortfolio.dll
 C:\Users\Sigrid\MiPortfolio\obj\Debug\net9.0\MiPortfolio.pdb
 C:\Users\Sigrid\MiPortfolio\obj\Debug\net9.0\MiPortfolio.genruntimeconfig.cache
 C:\Users\Sigrid\MiPortfolio\obj\Debug\net9.0\ref\MiPortfolio.dll
+C:\Users\Sigrid\MiPortfolio\obj\Debug\net9.0\MiPortfolio.sourcelink.json

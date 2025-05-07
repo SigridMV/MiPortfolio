@@ -1,0 +1,7 @@
+C:\Users\Sigrid\MiPortfolio\out\MiPortfolio.exe
+C:\Users\Sigrid\MiPortfolio\out\appsettings.Development.json
+C:\Users\Sigrid\MiPortfolio\out\appsettings.json
+C:\Users\Sigrid\MiPortfolio\out\MiPortfolio.dll
+C:\Users\Sigrid\MiPortfolio\out\MiPortfolio.deps.json
+C:\Users\Sigrid\MiPortfolio\out\MiPortfolio.runtimeconfig.json
+C:\Users\Sigrid\MiPortfolio\out\MiPortfolio.pdb
